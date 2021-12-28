@@ -1,0 +1,5 @@
+.DS_Store
+lib/
+node_modules/
+covid-19*
+src/static
